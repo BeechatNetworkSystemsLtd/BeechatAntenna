@@ -10,8 +10,12 @@ Beechat Antenna is an antenna with a U.FL male connector with a high efficiency.
 - Operating frequency of 863-928 MHz
 - U.FL male connector
 
-## Bill Of Materials (BOM)
+## Technical characteristics
+![1](https://github.com/BeechatNetworkSystemsLtd/BeechatAntenna/main/radiation_simulation.jpg?raw=true)
+![2](https://github.com/BeechatNetworkSystemsLtd/BeechatAntenna/main/S11_graph1.jpg?raw=true)
+![3](https://github.com/BeechatNetworkSystemsLtd/BeechatAntenna/main/S11_graph2.jpg?raw=true)
 
+## Bill Of Materials (BOM)
 
 | Comment | Designator | Footprint | MFR. Part # | QTY
 | ------ | ------ | ------ | ------ |  ------ | 
