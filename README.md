@@ -11,9 +11,9 @@ Beechat Antenna is an antenna with a U.FL male connector with a high efficiency.
 - U.FL male connector
 
 ## Technical characteristics
-![1](https://github.com/BeechatNetworkSystemsLtd/BeechatAntenna/main/radiation_simulation.jpg?raw=true)
-![2](https://github.com/BeechatNetworkSystemsLtd/BeechatAntenna/main/S11_graph1.jpg?raw=true)
-![3](https://github.com/BeechatNetworkSystemsLtd/BeechatAntenna/main/S11_graph2.jpg?raw=true)
+![1](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatAntenna/main/radiation_simulation.jpg)
+![2]( https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatAntenna/main/S11_graph1.jpg)
+![3]( https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatAntenna/main/S11_graph2.jpg)
 
 ## Bill Of Materials (BOM)
 
